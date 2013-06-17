@@ -1,0 +1,21 @@
+{
+  "cmd": ["mod", "--no-color"],
+  "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+  "working_dir": "${project_path:${folder:${file_path}}}",
+  "selector": "Modfile",
+  "windows":
+  {
+    "cmd": ["mod.cmd", "--no-color"]
+  },
+  "variants":
+  [
+    {
+      "name": "Modfile",
+      "cmd": ["mod", "--no-color"],
+      "windows":
+      {
+        "cmd": ["mod.cmd", "--no-color"]
+      }
+    }
+  ]
+}
