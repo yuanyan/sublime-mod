@@ -46,7 +46,7 @@ Add a Modfile to in your project root.
 
 ## build-on-save
 
-The build-on-save feature was added in v1.1.  To enable  `build-on-save`, you first have to save your project in Sublime Text by going to `Project > Save Project As`. Then go to your project folder and  `settings` line from the example below to your `myProject.sublime-project` file.
+To enable  `build-on-save`, you first have to save your project in Sublime Text by going to `Project > Save Project As`. Then go to your project folder and  `settings` line from the example below to your `myProject.sublime-project` file.
 
 > For each project that you want to take advantage of this feature, you will have to modify the the `.sublime-project` file.
 

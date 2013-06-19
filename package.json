@@ -1,0 +1,27 @@
+{
+    "name": "sublime-mod",
+    "description": "Mod for Sublime Text 2.",
+    "version": "0.1.0",
+    "homepage": "https://madscript.com",
+    "author": {
+        "name": "yuanyan",
+        "url": "http://github.com/yuanyan/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/yuanyan/sublime-mod/"
+    },
+    "bugs": {
+        "url": "git://github.com/yuanyan/sublime-mod/issues/"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "keywords": [
+        "sublime text",
+        "workflow",
+        "mod"
+    ]
+}
