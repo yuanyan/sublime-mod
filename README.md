@@ -23,7 +23,7 @@ If you weren't able to find the package on Package Control, go to your Sublime T
   * Linux: `~/.Sublime Text 2/Packages/`
   * Windows: `%APPDATA%/Sublime Text 2/Packages/`
   
-Add the `sublime-mod-build` module:
+Add the `sublime-mod` module:
 
 **Without Git**: Download the latest source zip from [github](https://github.com/yuanyan/sublime-mod/zipball/master) and extract the files into a new folder inside your Sublime Text "Packages" directory.
 
@@ -50,7 +50,6 @@ To enable  `build-on-save`, you first have to save your project in Sublime Text 
 
 > For each project that you want to take advantage of this feature, you will have to modify the the `.sublime-project` file.
 
-
 ### Build Settings
 
 In your project folder
@@ -70,3 +69,5 @@ To build on save, keep the value at `1`. To disable build on save, change the va
 ### A build-on-save word of caution
 
 > Running `mod` every time you hit `ctrl + s` will be a great productivity booster _when used wisely_.  But if you have lots of processor-intensive tasks that take more than a few seconds to run, this feature might get annoying pretty fast.
+
+
