@@ -14,7 +14,7 @@ First, install **Package Control** for Sublime Text 2:
 
 #### Option #1: Install module using package control
   * Now inside Sublime Text open the Command Palette (`command+shift+p` on OS X, or `ctrl+shift+p` on Linux/Windows).
-  * Select "Package Control: Install Package", after a few seconds a list will appear. Search for `sublime-mod-build` and click to install.
+  * Select "Package Control: Install Package", after a few seconds a list will appear. Search for `sublime-mod` and click to install.
 
 
 #### Option #2: Install module directly
